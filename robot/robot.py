@@ -2,7 +2,7 @@
 """
 Ctrl-Z FRC Team 4096
 FIRST Robotics Competition 2022
-Code for robot "swerve drivetrain prototype"
+Code for robot "Chao-Z"
 contact@team4096.org
 
 Some code adapted from:
